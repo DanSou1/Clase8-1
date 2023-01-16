@@ -1,0 +1,16 @@
+{
+    "type": "module",
+    "name": "guiPets",
+    "version": "1.0.0",
+    "description": "Api que guarda personas y mascotas",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo Error: no test specific && exit guiPets"
+    },
+    "keywords": [],
+    "author": "Daniel Sulaiman",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
